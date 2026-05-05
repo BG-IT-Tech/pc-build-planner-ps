@@ -195,5 +195,25 @@ Feel free to open an issue or discussion if you have questions about this build!
 
 ---
 
+## Useful Links & Downloads
+
+### MSI Z890 Gaming Plus WiFi — BIOS & Drivers
+
+| Resource | Link |
+|----------|------|
+| BIOS Updates & Support Page | [msi.com — Z890 Gaming Plus WiFi Support](https://www.msi.com/Motherboard/Z890-GAMING-PLUS-WIFI/support) |
+| How to Update BIOS (M-Flash Guide) | [msi.com — BIOS Update Instructions](https://www.msi.com/support/technical_details/MB_BIOS_Update) |
+| Z890 Gaming Plus WiFi User Manual (PDF) | [MSI Manual PDF](https://download-2.msi.com/archive/mnu_exe/mb/Z890GAMINGPLUSWIFI_English.pdf) |
+
+### MSI GeForce RTX 5070 Ti — Drivers & Support
+
+| Resource | Link |
+|----------|------|
+| MSI RTX 5070 Ti Support Page | [msi.com — RTX 5070 Ti Support](https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-PLUS/support) |
+| NVIDIA Official Driver Download | [nvidia.com — GeForce Drivers](https://www.nvidia.com/en-us/drivers/) |
+| NVIDIA App (replaces GeForce Experience) | [nvidia.com — NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) |
+
+> 💡 **Tip:** Always update your BIOS before installing the OS, and install GPU drivers after Windows is fully set up. Use the NVIDIA App going forward to keep drivers current automatically.
+> 
 *Made with ❤️ in Lakeland, Florida*  
 ⭐ Star this repo if it helped you!
