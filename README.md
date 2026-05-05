@@ -37,6 +37,7 @@ I had a solid Intel Z490 build running for a few years and decided it was time f
 | GPU | MSI GeForce RTX 5070 Ti | Massive generational leap from the 3070 |
 | Storage (1) | 1TB NVMe SSD | OS + primary games drive |
 | Storage (2) | 2TB NVMe SSD | Mass storage / secondary games |
+| Storage (3) | 2TB HDD | Mass storage |
 | PSU | Corsair RM1000e (1000W, fully modular) | Upgraded for the 5070 Ti power headroom |
 | Case | CyberPower C Series (kept!) | Saved money and it still looks great |
 
